@@ -1,7 +1,4 @@
-### Hi there 👋
-___
-
-<img src="https://komarev.com/ghpvc/?username=otsoniemi&color=ff69b4"/>
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=otsoniemi&color=ff69b4"/>
 
 ___
 
