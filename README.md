@@ -4,7 +4,6 @@ ___
 
 ### Contact
 
-- Email: [otsoniemi.tech@gmail.com](mailto:otsoniemi.tech@gmail.com)
 - Website: [otso.tech](https://otso.tech/)
 - Twitter: [@OtsoTech](https://twitter.com/otsotech)
 - Discord: [otso#3869](https://discord.com/users/230680727862116353)
