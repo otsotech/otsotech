@@ -1,21 +1,9 @@
-### Hi there 👋
+# Otso Niemi 👋
 
-___
+> **Computer Science Student & Game Developer**
 
-### Contact
-
-- Website: [otso.tech](https://otso.tech/)
-- Twitter: [@OtsoTech](https://twitter.com/otsotech)
-- Discord: [otso#3869](https://discord.com/users/230680727862116353)
-___
- 
-### Images
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=otsotech&show_icons=true&custom_title=Github%20Stats&count_private=true&hide=issues,contributed&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />  
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsotech&layout=compact&show_icons=true&custom_title=Top%20Languages&count_private=true&langs_count=4&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />  
-</a>
-
-> Statistics provided by [`GitHub Readme Stats`]
+**Portfolio Website:** [otsotech.github.io](https://otsotech.github.io/)  
+**Email:** [otsoniemi.business@gmail.com](mailto:otsoniemi.business@gmail.com)  
+**Telegram:** [@otsodev](https://t.me/otsodev)  
+**LinkedIn:** [/in/otsoniemi](https://www.linkedin.com/in/otsoniemi)  
+**X / Twitter:** [@otsodev](https://x.com/otsodev)
